@@ -1,0 +1,1 @@
+using simpler auxiliary rewards to steer an agent toward solving a more complex task

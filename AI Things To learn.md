@@ -1,0 +1,8 @@
+- How to work with AI in frontend apps
+	- Langchain
+	- re-create papers
+		- [CoT models being unfaithful](https://arxiv.org/pdf/2305.04388.pdf)
+- How transformers work
+- How to fine-tune a model
+- Digital watermarking
+- PyTorch

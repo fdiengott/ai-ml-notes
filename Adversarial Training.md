@@ -1,0 +1,2 @@
+#alignment-technique 
+Training an AI model with inputs that are intentionally designed to exploit its weaknesses. This makes the model more robust and therefore more resistant to potential attacks or unexpected variations in real-world scenarios.

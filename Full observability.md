@@ -1,0 +1,1 @@
+> a situation where an agent can observe the full environment state (an uncommon situation)

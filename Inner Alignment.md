@@ -1,0 +1,1 @@
+A piece of the alignment problem where a system adopts a specification robustly

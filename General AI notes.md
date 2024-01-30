@@ -1,0 +1,36 @@
+## Important Definitions
+- Intelligence - To be able to learn to make decisions to achieve goals
+- Helpfulness, harmlessness, and honesty
+
+## Helpful technical articles
+
+- https://benlevinstein.substack.com/p/a-conceptual-guide-to-transformers#%C2%A7the-embedding
+This series is really good at explaining how transformers work
+
+## Want to read
+### Articles
+- [Learning to Reinforcement Learn (2016)](https://arxiv.org/pdf/1611.05763.pdf)
+- [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762)
+- [Long Short-Term Memory (1997)](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory)
+- [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (2020)](https://arxiv.org/abs/2002.06177)
+- [On the Measure of Intelligence (2019)](https://arxiv.org/abs/1911.01547)
+- [Open-endedness: The last grand challenge you've never heard of (2017)](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
+- [Emergent Tool Use From Multi-Agent Autocurricula (2019)](https://arxiv.org/abs/1909.07528)
+- [The Ethics of Artificial Intelligence](https://intelligence.org/files/EthicsofAI.pdf)
+- [Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
+- [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/pdf/2310.01405v3.pdf)
+- [Modeling yield response to crop management using convolutional neural networks (2020)](https://www.sciencedirect.com/science/article/pii/S0168169919308543)
+- [Gradient-based Hyperparameter Optimization through Reversible Learning (2015)](https://arxiv.org/pdf/1502.03492.pdf)
+
+for more: [Top 10 papers in AI (pre 2021)](https://towardsdatascience.com/top-10-research-papers-in-ai-1f02cf844e26)
+
+### Books
+- [[The alignment problem]]
+- How the mind works - Steven Pinker
+- Technically wrong: sexist apps, biased algorithms, and other threats of toxic tech by Sara Wachter-Boettcher
+- Interpretable machine learning by Christoph Molar
+- The master algorithm: how the quest for the ultimate learning machine will remake our world by Pedro Domingos
+- Rebooting AI: building artificial intelligence we can trust by Gary Marcus and Ernest Davis 
+	- Does deep learning really get us to where we want to go with AI
+- (If i want more technical/textbook) Deep learning by Ian GoodFellow, Yoshua Bengio, and Aaron Courville
+- Neural networks and deep learning by Michael Nielson

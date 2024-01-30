@@ -1,0 +1,1 @@
+a process or a state is considered markovian if the probability of a reward or a subsequent state doesn't change if more history is added

@@ -1,0 +1,1 @@
+Holding out a portion of the training data during training. then seeing how well the model explains the held-out portion

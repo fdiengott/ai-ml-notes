@@ -1,0 +1,1 @@
+Each step of gradient descent uses all of the training examples

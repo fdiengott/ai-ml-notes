@@ -1,0 +1,1 @@
+Choosing the optimal number of layers and number of neurons per laying in a [[Neural Networks|neural network]]. 

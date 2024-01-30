@@ -1,0 +1,3 @@
+- [[Gradient descent]]
+- [[Adam Algorithm]]
+	- increases or decreases the learning rate for you
